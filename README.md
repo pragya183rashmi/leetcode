@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragya183rashmi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/pragya183rashmi/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/pragya183rashmi/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
