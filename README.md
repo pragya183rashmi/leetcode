@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pragya183rashmi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pragya183rashmi/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragya183rashmi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/pragya183rashmi/leetcode/tree/master/0704-binary-search) |
