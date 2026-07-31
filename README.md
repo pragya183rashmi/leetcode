@@ -122,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pragya183rashmi/leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragya183rashmi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pragya183rashmi/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/pragya183rashmi/leetcode/tree/master/0704-binary-search) |
 ## Counting Sort
 |  |
