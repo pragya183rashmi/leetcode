@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragya183rashmi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pragya183rashmi/leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/pragya183rashmi/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/pragya183rashmi/leetcode/tree/master/0141-linked-list-cycle) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragya183rashmi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pragya183rashmi/leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pragya183rashmi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragya183rashmi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pragya183rashmi/leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
