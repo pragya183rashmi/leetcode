@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pragya183rashmi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pragya183rashmi/leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/pragya183rashmi/leetcode/tree/master/0038-count-and-say) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya183rashmi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pragya183rashmi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
