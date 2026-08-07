@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pragya183rashmi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pragya183rashmi/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/pragya183rashmi/leetcode/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/pragya183rashmi/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/pragya183rashmi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/pragya183rashmi/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/pragya183rashmi/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/pragya183rashmi/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pragya183rashmi/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/pragya183rashmi/leetcode/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/pragya183rashmi/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pragya183rashmi/leetcode/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/pragya183rashmi/leetcode/tree/master/0162-find-peak-element) |
