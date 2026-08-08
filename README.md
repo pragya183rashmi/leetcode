@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragya183rashmi/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragya183rashmi/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pragya183rashmi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragya183rashmi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/pragya183rashmi/leetcode/tree/master/0038-count-and-say) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya183rashmi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pragya183rashmi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pragya183rashmi/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/pragya183rashmi/leetcode/tree/master/0135-candy) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Ternary Search
 |  |
 | ------- |
