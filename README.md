@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/pragya183rashmi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragya183rashmi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pragya183rashmi/leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pragya183rashmi/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/pragya183rashmi/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pragya183rashmi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pragya183rashmi/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/pragya183rashmi/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya183rashmi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pragya183rashmi/leetcode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/pragya183rashmi/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/pragya183rashmi/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pragya183rashmi/leetcode/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/pragya183rashmi/leetcode/tree/master/0135-candy) |
