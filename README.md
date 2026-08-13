@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pragya183rashmi/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/pragya183rashmi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pragya183rashmi/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/pragya183rashmi/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragya183rashmi/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## Heap (Priority Queue)
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/pragya183rashmi/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Quickselect
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/pragya183rashmi/leetcode/tree/master/1929-concatenation-of-array) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/pragya183rashmi/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Greedy
 |  |
 | ------- |
