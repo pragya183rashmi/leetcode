@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pragya183rashmi/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/pragya183rashmi/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragya183rashmi/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3028-ant-on-the-boundary](https://github.com/pragya183rashmi/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/pragya183rashmi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/pragya183rashmi/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3028-ant-on-the-boundary](https://github.com/pragya183rashmi/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Greedy
 |  |
 | ------- |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/pragya183rashmi/leetcode/tree/master/0197-rising-temperature) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/pragya183rashmi/leetcode/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
