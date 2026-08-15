@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pragya183rashmi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pragya183rashmi/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/pragya183rashmi/leetcode/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/pragya183rashmi/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/pragya183rashmi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pragya183rashmi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/pragya183rashmi/leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/pragya183rashmi/leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pragya183rashmi/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
@@ -269,4 +271,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pragya183rashmi/leetcode/tree/master/0202-happy-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
