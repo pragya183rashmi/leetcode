@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pragya183rashmi/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pragya183rashmi/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/pragya183rashmi/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/pragya183rashmi/leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/pragya183rashmi/leetcode/tree/master/0162-find-peak-element) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pragya183rashmi/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/pragya183rashmi/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/pragya183rashmi/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pragya183rashmi/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pragya183rashmi/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pragya183rashmi/leetcode/tree/master/0202-happy-number) |
