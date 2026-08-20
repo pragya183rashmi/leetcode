@@ -1,0 +1,13 @@
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+BEGIN
+    RETURN (
+        SELECT e.salary
+        FROM Employee e
+        WHERE (
+            SELECT COUNT(DISTINCT e2.salary)
+            FROM Employee e2
+            WHERE e2.salary > e.salary
+        ) = N - 1
+        LIMIT 1
+    );
+END
