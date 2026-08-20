@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/pragya183rashmi/leetcode/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/pragya183rashmi/leetcode/tree/master/0197-rising-temperature) |
 ## Prefix Sum
 |  |
