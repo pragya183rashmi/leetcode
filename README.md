@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/pragya183rashmi/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/pragya183rashmi/leetcode/tree/master/0706-design-hashmap) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragya183rashmi/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pragya183rashmi/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pragya183rashmi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pragya183rashmi/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/pragya183rashmi/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/pragya183rashmi/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/pragya183rashmi/leetcode/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/pragya183rashmi/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/pragya183rashmi/leetcode/tree/master/0706-design-hashmap) |
 ## Array
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/pragya183rashmi/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/pragya183rashmi/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/pragya183rashmi/leetcode/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pragya183rashmi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0867-transpose-matrix) |
@@ -316,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/pragya183rashmi/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/pragya183rashmi/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
