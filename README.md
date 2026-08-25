@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/pragya183rashmi/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/pragya183rashmi/leetcode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/pragya183rashmi/leetcode/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/pragya183rashmi/leetcode/tree/master/0577-employee-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pragya183rashmi/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
