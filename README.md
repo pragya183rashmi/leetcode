@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pragya183rashmi/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya183rashmi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pragya183rashmi/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/pragya183rashmi/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pragya183rashmi/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pragya183rashmi/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pragya183rashmi/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pragya183rashmi/leetcode/tree/master/0202-happy-number) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/pragya183rashmi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/pragya183rashmi/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/pragya183rashmi/leetcode/tree/master/0342-power-of-four) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pragya183rashmi/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Memoization
