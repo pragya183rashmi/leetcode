@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pragya183rashmi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pragya183rashmi/leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pragya183rashmi/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragya183rashmi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -340,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pragya183rashmi/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
