@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pragya183rashmi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/pragya183rashmi/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragya183rashmi/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pragya183rashmi/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pragya183rashmi/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/pragya183rashmi/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pragya183rashmi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/pragya183rashmi/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Counting Sort
 |  |
 | ------- |
