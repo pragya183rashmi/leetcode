@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya183rashmi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragya183rashmi/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1816-truncate-sentence](https://github.com/pragya183rashmi/leetcode/tree/master/1816-truncate-sentence) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pragya183rashmi/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pragya183rashmi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragya183rashmi/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pragya183rashmi/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/pragya183rashmi/leetcode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/pragya183rashmi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/pragya183rashmi/leetcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pragya183rashmi/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
