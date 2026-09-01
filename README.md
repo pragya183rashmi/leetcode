@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/pragya183rashmi/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/pragya183rashmi/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/pragya183rashmi/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/pragya183rashmi/leetcode/tree/master/0342-power-of-four) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pragya183rashmi/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Memoization
