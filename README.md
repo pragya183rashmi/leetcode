@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/pragya183rashmi/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/pragya183rashmi/leetcode/tree/master/1518-water-bottles) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/pragya183rashmi/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pragya183rashmi/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragya183rashmi/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
