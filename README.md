@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pragya183rashmi/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/pragya183rashmi/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pragya183rashmi/leetcode/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/pragya183rashmi/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pragya183rashmi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0867-transpose-matrix) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pragya183rashmi/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/pragya183rashmi/leetcode/tree/master/0724-find-pivot-index) |
 | [3028-ant-on-the-boundary](https://github.com/pragya183rashmi/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Floyd's Cycle Finding Algorithm
 |  |
