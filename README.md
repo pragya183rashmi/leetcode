@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pragya183rashmi/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/pragya183rashmi/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/pragya183rashmi/leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/pragya183rashmi/leetcode/tree/master/1518-water-bottles) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pragya183rashmi/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pragya183rashmi/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pragya183rashmi/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/pragya183rashmi/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/pragya183rashmi/leetcode/tree/master/0179-largest-number) |
+| [1323-maximum-69-number](https://github.com/pragya183rashmi/leetcode/tree/master/1323-maximum-69-number) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Ternary Search
 |  |
