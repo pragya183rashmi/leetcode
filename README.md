@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pragya183rashmi/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/pragya183rashmi/leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pragya183rashmi/leetcode/tree/master/0322-coin-change) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pragya183rashmi/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pragya183rashmi/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pragya183rashmi/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/pragya183rashmi/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/pragya183rashmi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pragya183rashmi/leetcode/tree/master/0342-power-of-four) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pragya183rashmi/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Rolling Hash
 |  |
@@ -408,4 +411,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/pragya183rashmi/leetcode/tree/master/0214-shortest-palindrome) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
