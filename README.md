@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragya183rashmi/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pragya183rashmi/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragya183rashmi/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/pragya183rashmi/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pragya183rashmi/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragya183rashmi/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/pragya183rashmi/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/pragya183rashmi/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragya183rashmi/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
