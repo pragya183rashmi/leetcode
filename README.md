@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/pragya183rashmi/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/pragya183rashmi/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/pragya183rashmi/leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/pragya183rashmi/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/pragya183rashmi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pragya183rashmi/leetcode/tree/master/0342-power-of-four) |
