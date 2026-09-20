@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/pragya183rashmi/leetcode/tree/master/0101-symmetric-tree) |
 | [0279-perfect-squares](https://github.com/pragya183rashmi/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pragya183rashmi/leetcode/tree/master/0322-coin-change) |
 ## Knapsack Problem
@@ -502,4 +503,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/pragya183rashmi/leetcode/tree/master/0164-maximum-gap) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/pragya183rashmi/leetcode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/pragya183rashmi/leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/pragya183rashmi/leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
