@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragya183rashmi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pragya183rashmi/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/pragya183rashmi/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/pragya183rashmi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pragya183rashmi/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pragya183rashmi/leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pragya183rashmi/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/pragya183rashmi/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/pragya183rashmi/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pragya183rashmi/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pragya183rashmi/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0059-spiral-matrix-ii) |
