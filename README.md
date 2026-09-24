@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pragya183rashmi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya183rashmi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/pragya183rashmi/leetcode/tree/master/1544-make-the-string-great) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/pragya183rashmi/leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya183rashmi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragya183rashmi/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/pragya183rashmi/leetcode/tree/master/1544-make-the-string-great) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragya183rashmi/leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1816-truncate-sentence](https://github.com/pragya183rashmi/leetcode/tree/master/1816-truncate-sentence) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pragya183rashmi/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
