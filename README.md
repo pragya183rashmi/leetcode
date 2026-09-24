@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pragya183rashmi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/pragya183rashmi/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pragya183rashmi/leetcode/tree/master/0706-design-hashmap) |
+| [0720-longest-word-in-dictionary](https://github.com/pragya183rashmi/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya183rashmi/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pragya183rashmi/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragya183rashmi/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/pragya183rashmi/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0720-longest-word-in-dictionary](https://github.com/pragya183rashmi/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/pragya183rashmi/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya183rashmi/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya183rashmi/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pragya183rashmi/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/pragya183rashmi/leetcode/tree/master/0709-to-lower-case) |
+| [0720-longest-word-in-dictionary](https://github.com/pragya183rashmi/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0917-reverse-only-letters](https://github.com/pragya183rashmi/leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya183rashmi/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragya183rashmi/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/pragya183rashmi/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pragya183rashmi/leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/pragya183rashmi/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0720-longest-word-in-dictionary](https://github.com/pragya183rashmi/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/pragya183rashmi/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pragya183rashmi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -525,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pragya183rashmi/leetcode/tree/master/0101-symmetric-tree) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/pragya183rashmi/leetcode/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
