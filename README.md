@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pragya183rashmi/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pragya183rashmi/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pragya183rashmi/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/pragya183rashmi/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/pragya183rashmi/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/pragya183rashmi/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/pragya183rashmi/leetcode/tree/master/0152-maximum-product-subarray) |
