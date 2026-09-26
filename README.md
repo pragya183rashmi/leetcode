@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pragya183rashmi/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pragya183rashmi/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/pragya183rashmi/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/pragya183rashmi/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pragya183rashmi/leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/pragya183rashmi/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/pragya183rashmi/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pragya183rashmi/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pragya183rashmi/leetcode/tree/master/0066-plus-one) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pragya183rashmi/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
