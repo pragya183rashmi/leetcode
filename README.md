@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pragya183rashmi/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/pragya183rashmi/leetcode/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/pragya183rashmi/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/pragya183rashmi/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/pragya183rashmi/leetcode/tree/master/0214-shortest-palindrome) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pragya183rashmi/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pragya183rashmi/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/pragya183rashmi/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/pragya183rashmi/leetcode/tree/master/0079-word-search) |
 ## Design
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pragya183rashmi/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/pragya183rashmi/leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/pragya183rashmi/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/pragya183rashmi/leetcode/tree/master/0135-candy) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pragya183rashmi/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/pragya183rashmi/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0867-transpose-matrix) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pragya183rashmi/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pragya183rashmi/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/pragya183rashmi/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragya183rashmi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
