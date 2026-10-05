@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pragya183rashmi/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/pragya183rashmi/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/pragya183rashmi/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pragya183rashmi/leetcode/tree/master/0322-coin-change) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/pragya183rashmi/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/pragya183rashmi/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/pragya183rashmi/leetcode/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/pragya183rashmi/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/pragya183rashmi/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
