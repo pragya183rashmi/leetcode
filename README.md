@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/pragya183rashmi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/pragya183rashmi/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pragya183rashmi/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/pragya183rashmi/leetcode/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/pragya183rashmi/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0917-reverse-only-letters](https://github.com/pragya183rashmi/leetcode/tree/master/0917-reverse-only-letters) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pragya183rashmi/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pragya183rashmi/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/pragya183rashmi/leetcode/tree/master/0343-integer-break) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pragya183rashmi/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/pragya183rashmi/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/pragya183rashmi/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragya183rashmi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/pragya183rashmi/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/pragya183rashmi/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/pragya183rashmi/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pragya183rashmi/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pragya183rashmi/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Memoization
 |  |
