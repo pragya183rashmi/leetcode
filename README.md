@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pragya183rashmi/leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/pragya183rashmi/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/pragya183rashmi/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/pragya183rashmi/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/pragya183rashmi/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pragya183rashmi/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pragya183rashmi/leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/pragya183rashmi/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/pragya183rashmi/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/pragya183rashmi/leetcode/tree/master/0496-next-greater-element-i) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/pragya183rashmi/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pragya183rashmi/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/pragya183rashmi/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -582,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/pragya183rashmi/leetcode/tree/master/0720-longest-word-in-dictionary) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/pragya183rashmi/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
