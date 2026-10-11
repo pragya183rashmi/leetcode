@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pragya183rashmi/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/pragya183rashmi/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/pragya183rashmi/leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/pragya183rashmi/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/pragya183rashmi/leetcode/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/pragya183rashmi/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/pragya183rashmi/leetcode/tree/master/0179-largest-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pragya183rashmi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pragya183rashmi/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pragya183rashmi/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/pragya183rashmi/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/pragya183rashmi/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pragya183rashmi/leetcode/tree/master/0152-maximum-product-subarray) |
