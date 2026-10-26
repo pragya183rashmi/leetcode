@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pragya183rashmi/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pragya183rashmi/leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pragya183rashmi/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0520-detect-capital](https://github.com/pragya183rashmi/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/pragya183rashmi/leetcode/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/pragya183rashmi/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0917-reverse-only-letters](https://github.com/pragya183rashmi/leetcode/tree/master/0917-reverse-only-letters) |
