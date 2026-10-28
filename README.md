@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pragya183rashmi/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pragya183rashmi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragya183rashmi/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/pragya183rashmi/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pragya183rashmi/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/pragya183rashmi/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pragya183rashmi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragya183rashmi/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya183rashmi/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pragya183rashmi/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/pragya183rashmi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pragya183rashmi/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragya183rashmi/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/pragya183rashmi/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Counting Sort
 |  |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragya183rashmi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/pragya183rashmi/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragya183rashmi/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragya183rashmi/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bit Manipulation
 |  |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pragya183rashmi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pragya183rashmi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pragya183rashmi/leetcode/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragya183rashmi/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3028-ant-on-the-boundary](https://github.com/pragya183rashmi/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -601,4 +606,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pragya183rashmi/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragya183rashmi/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragya183rashmi/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
